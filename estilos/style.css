@@ -22,3 +22,13 @@ h1{
 h2{
     font-size: 1.5em;
 }
+
+.logo img {
+    max-width: 250px;
+    
+    
+}
+
+img.lado {
+    float: right;
+}
